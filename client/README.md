@@ -1,1 +1,1 @@
-Woortec's Task Management Tool Developed by Miguel
+Woortec's Task Management Tool Developed
