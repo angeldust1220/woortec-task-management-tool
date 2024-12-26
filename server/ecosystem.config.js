@@ -9,4 +9,8 @@ module.exports = {
         },
       },
     ],
+<<<<<<< HEAD
   };
+=======
+  };
+>>>>>>> b2b39e2f (AWS server)
