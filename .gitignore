@@ -4,4 +4,8 @@ client/dist
 server/dist
 client/.env
 server/.env
+<<<<<<< HEAD
 client/.next/
+=======
+client/.next/
+>>>>>>> e7c04a47 (init)
