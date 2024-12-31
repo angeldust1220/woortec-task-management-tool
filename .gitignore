@@ -5,7 +5,11 @@ server/dist
 client/.env
 server/.env
 <<<<<<< HEAD
+<<<<<<< HEAD
 client/.next/
 =======
 client/.next/
 >>>>>>> e7c04a47 (init)
+=======
+client/.next/
+>>>>>>> 4b2bfe58 (fixed github problem)
